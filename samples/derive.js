@@ -43,7 +43,7 @@ console.log(
 console.log();
 
 console.log(
-  "Derive: privatekey (HEX)",
+  "Derive: privatekey ()",
   lib.derive.privatekey(
     "00B440C4948CD011B94F69839A16B985D23666194529F630781D58A18977F20635"
   )
